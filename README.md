@@ -29,7 +29,7 @@ The dashboard helps users quickly understand key trends, performance indicators,
 
 Below is a preview of the Excel dashboard showcasing key metrics and visual insights:
 
-![Dashboard Screenshot](screenshots/impact.png)
+![Dashboard Screenshot](dashboard.png)
 
 
 

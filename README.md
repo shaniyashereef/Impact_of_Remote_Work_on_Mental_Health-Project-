@@ -37,8 +37,10 @@ This dashboard can be useful for:
 - Business analysis practice
 - Learning data visualization techniques
 
- 👩‍💻 Author
-**Shaniya C Shereef**
-Aspiring Data Analyst
+   ## 👩‍💻 Author
+**Shaniya Shereef**  
+Aspiring Data Analyst | Dashboard & Data Visualization Enthusiast  
+
+
 
 

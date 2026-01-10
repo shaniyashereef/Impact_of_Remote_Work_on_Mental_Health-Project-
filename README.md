@@ -25,6 +25,14 @@ The dashboard helps users quickly understand key trends, performance indicators,
  📂 File Information
 - **impact work dashboard.xlsx** – Main dashboard file
 
+## 🖼 Dashboard Preview
+
+Below is a preview of the Excel dashboard showcasing key metrics and visual insights:
+
+![Dashboard Screenshot](screenshots/impact.png)
+
+
+
  🚀 How to Use
 1. Download the Excel file from this repository
 2. Open it using Microsoft Excel

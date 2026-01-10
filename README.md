@@ -38,7 +38,7 @@ This dashboard can be useful for:
 - Learning data visualization techniques
 
  👩‍💻 Author
-Shaniya C Shereef
+**Shaniya C Shereef**
 Aspiring Data Analyst
 
 
